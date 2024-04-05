@@ -1,5 +1,7 @@
 ## demo app - developing with Docker
 
+Note: this code is from [Youtube](https://www.youtube.com/watch?v=3c-iBn73dDE). With some modifications based of my learning process.
+
 This demo app shows a simple user profile app set up using 
 - index.html with pure js and css styles
 - nodejs backend with express module
